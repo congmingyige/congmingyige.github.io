@@ -43,4 +43,4 @@
 - 认当今之菜，改将来之菜
 
 ### 简历下载
-https://github.com/congmingyige/congmingyige.github.io/raw/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.doc
+[陈冠斌个人简历](https://github.com/congmingyige/congmingyige.github.io/raw/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.doc)
