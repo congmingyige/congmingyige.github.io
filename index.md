@@ -1,6 +1,4 @@
 
-<body background="background.jpg">
-
 <table border="0">
   <tr>
     <td width="75%">
