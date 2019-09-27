@@ -1,4 +1,6 @@
 
+<body background="background.jpg">
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -17,8 +19,8 @@
 
 ### 成果展示
 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
-Blog：[https://congmingyige.github.io](http://www.cnblogs.com/cmyg)  
-Github：[https://congmingyige.github.io](https://github.com/congmingyige)  
+Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+Github：[https://github.com/congmingyige](https://github.com/congmingyige)  
 
 ### 教育背景
 2015.09-2019.06			兰州大学（本科）					计算机科学与技术  
