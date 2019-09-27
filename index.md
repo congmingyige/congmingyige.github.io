@@ -1,13 +1,13 @@
 ### 个人信息
-姓名：陈冠斌
-性别：男
-民族：汉
-出生年月：1997.04
-电话：15682871716
-邮箱：chenguanbin1997@outlook.com
-个人主页：https://congmingyige.github.io
-Blog：http://www.cnblogs.com/cmyg
-Github：https://github.com/congmingyige
+姓名：陈冠斌  
+性别：男  
+民族：汉  
+出生年月：1997.04  
+电话：15682871716  
+邮箱：chenguanbin1997@outlook.com  
+个人主页：https://congmingyige.github.io  
+Blog：http://www.cnblogs.com/cmyg  
+Github：https://github.com/congmingyige  
 
 ### 教育背景
 2015.09-2019.06			兰州大学（本科）					计算机科学与技术
