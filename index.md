@@ -8,9 +8,9 @@
       <p><b>出生年月：1997.04</b></p>
       <p><b>电话：15682871716</b></p>
       <p><b>邮箱：chenguanbin1997@outlook.com</b></p>
-      <p><b>个人主页：(https://congmingyige.github.io)</b></p>
-      <p><b>Blog：http://www.cnblogs.com/cmyg</b></p>
-      <p><b>Github：https://github.com/congmingyige</b></p>
+      <p><b>个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)</b></p>
+      <p><b>Blog：[https://congmingyige.github.io](http://www.cnblogs.com/cmyg)</b></p>
+      <p><b>Github：[https://congmingyige.github.io](https://github.com/congmingyige)</b></p>
     </td>
     <td width="25%">
       <img src="/chenguanbin.jpg" width="100%">
