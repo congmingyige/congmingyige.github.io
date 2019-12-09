@@ -1,4 +1,8 @@
 
+Personal Home Page
+### Introduction
+Guanbin Chen currently studies at the Britton Chance Research Center for Biomedical Photonics, Huazhong University of Science and Technology. He does research in Algorithms and Neuroscience.
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -37,12 +41,10 @@ Github：[https://github.com/congmingyige](https://github.com/congmingyige)
 - 本科期间共获国家奖学金一次，剩余均获校一等奖学金
 - 兰州大学程序设计竞赛的提出者之一，第一、二、三次竞赛的出题人、验题人、组织者之一
 - 全国初中组数学竞赛一等奖（初二、初三）& 希望杯全国一等奖
+- 初中信息学竞赛NOIP一等奖
 
 ### 个人感想
-- 且行且珍惜
-- 多奋进，少颓废
-- 十年冷板凳，发际日渐高
-- 认当今之菜，改将来之菜
+- 科研中，不只有眼前的苟且，还有诗与远方
 
 ### 简历下载
 [陈冠斌个人简历](https://github.com/congmingyige/congmingyige.github.io/raw/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.doc)
