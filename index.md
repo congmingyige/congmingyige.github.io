@@ -1,5 +1,5 @@
 
-Personal Home Page of Guanbin Chen
+Personal Home Page Of Guanbin Chen
 
 ### Introduction
 Guanbin Chen currently studies at the Britton Chance Research Center for Biomedical Photonics, Huazhong University of Science and Technology. He does research in Algorithms and Neuroscience.
