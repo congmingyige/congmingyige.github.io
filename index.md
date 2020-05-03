@@ -33,7 +33,7 @@ Github：[https://github.com/congmingyige](https://github.com/congmingyige)
 ### 研究方向
 当前研究方向（博士期间）：神经科学，介观层次，图像处理&科学分析  
 交叉领域：计算机（算法）、数学、神经科学、医学（maybe）  
-擅长领域：算法
+擅长领域：算法  
 论文：  
 暂无
 
