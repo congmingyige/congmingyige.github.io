@@ -5,8 +5,7 @@
 <span id="jump">跳转到的地方</span>
 
 
-
-
+<span>
 
 
 ## Homepage of Guanbin Chen （中文版见下方）
@@ -25,7 +24,6 @@ Guanbin Chen currently studies at the MOST group, Britton Chance Research Center
 
 ### 科研日记
 
-### 
 2019.9.1 致坚持 - 科研中，不只有眼前的苟且，还有诗与远方
 
 2020.5.31 抱负也有，迷茫也有，未来如何，尚未可知。
@@ -48,7 +46,7 @@ Guanbin Chen currently studies at the MOST group, Britton Chance Research Center
     <td width="25%">
       <img src="/chenguanbin.jpg" width="100%">
     </td>
-  </tr>G
+  </tr>
 </table>
 
 ### 成果展示
@@ -87,7 +85,7 @@ Github：[https://github.com/congmingyige](https://github.com/congmingyige)
 
 
 ## 陈冠斌的个人主页
-
+1
 
 
 
