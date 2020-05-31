@@ -1,29 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-<script>
-function chinese()
-{
-}
-
-function copyText()
-{
-document.getElementById("field2").value=document.getElementById("field1").value;
-}
-</script>
-
-<button onclick="chinese()" type="button">中文</button> <button onclick="english()" type="button">English</button>
-
-Field1: <input type="text" id="field1" value="Hello World!"><br>
-Field2: <input type="text" id="field2"><br><br>
-
-<button onclick="copyText()">复制文本</button>
-
-
-
-</head>
-<body>
 
 
 
