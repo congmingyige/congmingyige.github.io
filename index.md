@@ -5,8 +5,6 @@
 <span id="jump">跳转到的地方</span>
 
 
-<span>
-
 
 ## Homepage of Guanbin Chen （中文版见下方）
 
@@ -36,8 +34,6 @@ Guanbin Chen currently studies at the MOST group, Britton Chance Research Center
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>姓名（Name）</b><b>陈冠斌（Guanbin Chen）</b></h1>
-      <p><b>性别（Male）></b><b>男（）</b></p>
       <p><b>民族：汉</b></p>
       <p><b>出生年月：1997.04</b></p>
       <p><b>电话：15682871716</b></p>
