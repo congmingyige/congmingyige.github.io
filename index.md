@@ -15,7 +15,7 @@ Guanbin Chen currently studies at the MOST group, Britton Chance Research Center
 ### 研究方向
 #### 研究方向1
 
-脑空间信息学 文章
+xxx 脑空间信息学 他人文章
 
 
 ### 个人简介
@@ -35,7 +35,7 @@ Guanbin Chen currently studies at the MOST group, Britton Chance Research Center
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>性别（Male）></b><b>男（）</b></p>
+      <p><b>性别（Male）</b> <b>男（）</b></p>
       <p><b>民族：汉</b></p>
       <p><b>出生年月：1997.04</b></p>
       <p><b>电话：15682871716</b></p>
