@@ -14,7 +14,7 @@
 # 陈冠斌的个人主页
 
 ## 个人信息
-<table width="50%" align="center" class="ctl1">
+<table width="100%" align="center" class="ctl1">
   <tr>
     <td>性别</td><td>男</td>
     <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
@@ -68,22 +68,12 @@ to be added
 
 ## 荣誉
 - 2018 ACM-ICPC International Collegiate Programming Contest 亚洲区域赛焦作、亚洲区域赛青岛、全国邀请赛南昌银奖（团体，三人）
-- 2017年高教社杯全国大学生数学建模竞赛本科组全国二等奖（团体，三人）
+- 2017 高教社杯全国大学生数学建模竞赛本科组全国二等奖（团体，三人）
 - 本科期间共获国家奖学金一次，剩余均获校一等奖学金
 - 兰州大学程序设计竞赛的提出者之一，第一、二、三次竞赛的出题人、验题人、组织者之一
-- 高中信息学竞赛（NOIP）全国二等奖（两次）（广东，是分数线排名前几的省份；本人分数相当于绝大部分省份的国一）
-- 初中数学竞赛全国一等奖（初二（与初三同台竞争）；初三）
-- 初中信息学竞赛（NOIP）全国一等奖（广东；排名广州前10）
-- 小学数学希望杯全国一等奖
-
-## Honor
-- 2018年ACM-ICPC国际大学生程序设计竞赛亚洲区域赛焦作、亚洲区域赛青岛、全国邀请赛南昌银奖（团体，三人）
-- 2017年高教社杯全国大学生数学建模竞赛本科组全国二等奖（团体，三人）
-- 本科期间共获国家奖学金一次，剩余均获校一等奖学金
-- 兰州大学程序设计竞赛的提出者之一，第一、二、三次竞赛的出题人、验题人、组织者之一
-- 高中信息学竞赛（NOIP）全国二等奖（两次）（广东，是分数线排名前几的省份；本人分数相当于绝大部分省份的国一）
-- 初中数学竞赛全国一等奖（初二（与初三同台竞争）；初三）
-- 初中信息学竞赛（NOIP）全国一等奖（广东；排名广州前10）
+- 2013,2014 高中信息学竞赛（NOIP）全国二等奖（广东；到达绝大部分省份一等奖分数线）
+- 2011 初中信息学竞赛（NOIP）全国一等奖（广东；排名广州第7）
+- 2011,2012 初中数学竞赛全国一等奖（初二的时候与初三同台竞争）
 - 小学数学希望杯全国一等奖
 
 ## 科研想法
@@ -99,11 +89,6 @@ to be added
   <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
 </table>
-
-| 时间            | 学校（学位）         | 专业                             |
-| --------------- | -------------------- | -------------------------------- |
-| 2015.09-2019.06 | 兰州大学（本科）     | 计算机科学与技术                 |
-| 2019.09-至今    | 华中科技大学（直博） | 计算机科学与技术（生物医学工程） |
 
 
 
@@ -166,6 +151,16 @@ algorithms, incluing theory and application
 #### Personaly Research Results
 to be added
 
+## Honor
+- The ACM ICPC Asia Regional Contest Jiaozuo Site 2018, Qingdao Site 2018, China Invitational Nanchang 2019 Silver Medal(group of three, three times)
+- 2017 High Education Club Cup National Undergraduate Mathematical Modeling Contest Undergraduate Group National Second Prize
+- during undergraduate period, Chinese National Scholarship once, Lanzhou Univerisity Scholarship three times
+- in Programming Competition of Lanzhou University, one of initiator , one of the examinee for the first, second and third competition
+- 2013,2014 National Olympiad in Informatics in Provinces(NOIP) Senior Group National(Guangdong Site) Second Prize(reach the minimum first prize score in most of the province)
+- 2011 National Olympiad in Informatics in Provinces(NOIP) Senior Group National(Guangdong Site) First Prize(Guangzhou 7th)
+- 2011,2012 National Junior School Maths Competion First Prize(when in junior two, compete with junior three)
+- "Cup of Hope" National Mathematics Invitational Tournament/Contest/Competition Primary Group First Prize
+
 ## Scientific Thought
 ### Spirit
 - efficient study（correct time and method）
@@ -174,7 +169,7 @@ to be added
 - Persevere
 
 ## Educational Background
-<table width="50%" align="center" border="1">
+<table width="100%" align="center" border="1">
   <tr><th>Time</th><th>School（Degree）</th><th>Major</th></tr>
   <tr><td>2015.09-2019.06</td><td>Lanzhou University（undergraduate）</td><td>Computer Science and Technology</td></tr>
   <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology（graduate）</td><td>Computer Science and Technology（Biomedical Engineering）</td></tr>
