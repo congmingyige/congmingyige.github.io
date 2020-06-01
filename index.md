@@ -10,6 +10,18 @@
  }
 </style>
 
+<style>
+.intro
+{
+background-color:yellow;
+}
+</style>
+
+<div class="intro">
+<p>我是唐老鸭。</p>
+<p>我住在 Duckburg。</p>
+</div>
+
 ## 个人信息
 <table class="ctl">
   <tr>
