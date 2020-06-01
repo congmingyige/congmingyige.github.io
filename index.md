@@ -15,10 +15,11 @@
 </table>
 
 ### 个人简介
-<br>陈冠斌目前就读于MOST(Micro-Optical Sectioning Tomography)实验室，Britton Chance Research Center for Biomedical Photonics研究中心，武汉光电国家研究中心，华中科技大学。
-<br>他目前研究图像处理与分析，对象是介观层次的神经科学图像，如鼠脑神经元血管等。此外，他还研究算法，包括算法的理论研究与应用。
-<br>他喜欢和擅长算法，曾获程序设计和数学建模的奖项（见下文）。
-<br>他乐意于大家进行学术上的交流，如果有任意建议或问题，请邮箱联系我(1249591860@qq.com , chenguanbin1997@outlook.com)。
+&nbsp;陈冠斌目前就读于MOST(Micro-Optical Sectioning Tomography)实验室，Britton Chance Research Center for Biomedical Photonics研究中心，武汉光电国家研究中心，华中科技大学。
+&nbsp;他目前研究图像处理与分析，对象是介观层次的神经科学图像，如鼠脑神经元血管等。此外，他还研究算法，包括算法的理论研究与应用。
+&nbsp;他喜欢和擅长算法，曾获程序设计和数学建模的奖项（见下文）。
+&nbsp;他乐意于大家进行学术上的交流，如果有任意建议或问题，请邮箱联系我(1249591860@qq.com , chenguanbin1997@outlook.com)。
+&nbsp;他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。另外，他在科研和日常生活中有一点点强迫症和拖延症，而他正在努力解决中。
 
 ### 个人展示
 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
@@ -105,6 +106,7 @@ GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
 <br>He does research in image processing and analyzing about neuroscience image of mesoscopic level, e.g. mouse brain neuron and vessel. In addition, He also does research in algorithms, incluing theory and application.
 <br>He is interested in and quite good at algorithms, and has gained awards in programming and mathematical modeling which are shown below.
 <br>He is glad to communicate with researchers, if you have any advice and questions, please email with me (1249591860@qq.com , chenguanbin1997@outlook.com).
+&nbsp;He enjoys comics and literature, and willing to try anything. What's more, he has a little OCD and procrastination in scientic as well as life, and he trys to fix it.
 
 
 ### Personal Presentation
