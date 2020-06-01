@@ -7,7 +7,7 @@
 <table width="50%" align="center" border="1">
   <tr>
     <td>性别</td><td>男</td>
-    <td rowspan="4"><img src="chenguanbin.jpg" width="30%" height="30%"/></td>
+    <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
@@ -37,8 +37,8 @@ GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
 - 交叉学科：计算机（算法，大数据，可视化）、神经科学、数学、物理、医学
 
 - 实验室文章
--- 骆清铭. (2017). 脑空间信息学——连接脑科学与类脑人工智能的桥梁. 中国科学:生命科学, 10 vo 47, 1015–1024.
--- Li, A., Gong, H., Zhang, B., Wang, Q., Yan, C., Wu, J., Liu, Q., Zeng, S., & Luo, Q. (2010). Micro-Optical Sectioning Tomography to Obtain a High-Resolution Atlas of the Mouse Brain. Science, 330(6009), p.1404-1408.
+    - 骆清铭. (2017). 脑空间信息学——连接脑科学与类脑人工智能的桥梁. 中国科学:生命科学, 10 vo 47, 1015–1024.
+    - Li, A., Gong, H., Zhang, B., Wang, Q., Yan, C., Wu, J., Liu, Q., Zeng, S., & Luo, Q. (2010). Micro-Optical Sectioning Tomography to Obtain a High-Resolution Atlas of the Mouse Brain. Science, 330(6009), p.1404-1408.
 -- Li, A., Guan, Y., Gong, H., & Luo, Q. (2019). Challenges of Processing and Analyzing Big Data in Mesoscopic Whole-brain Imaging. Genomics, Proteomics & Bioinformatics, 17(4), 337–343.
 
 #### 研究方向2 算法，包括算法的理论研究与应用
@@ -96,7 +96,7 @@ GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
     <table width="50%">
       <tr>
         <td>Sex</td><td>Male</td>
-        <td rowspan="4"><img src="chenguanbin.jpg" width="30%" height="30%"/></td>
+        <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
         </tr>
       <tr><td>Nationality</td><td>Chinese</td></tr>
       <tr><td>Ethn</td><td>Han</td></tr>
