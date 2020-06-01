@@ -30,16 +30,14 @@ Group Paper:
 ### Personal Information
 ### 个人信息
 <table border="1">
-  <tr>
-    <td width="75%">
-        <tr><td>性别</td><td>男</td></tr>
-        <tr><td>国籍民族</td><td>中国 汉族</td></tr>
-        <tr><td>出生年月</td><td>1997.04</td></tr>
-    </td>
-    <td width="25%">
-      <tr><td>1</td><td>1</td></tr>
-    </td>
-  </tr>
+  <table width="75%">
+    <tr><td>性别</td><td>男</td></tr>
+    <tr><td>国籍民族</td><td>中国 汉族</td></tr>
+    <tr><td>出生年月</td><td>1997.04</td></tr>
+  </table>
+  <table width="25%">
+    <img src="/chenguanbin.jpg" width="100%">
+  </table>
 </table>
 
 
