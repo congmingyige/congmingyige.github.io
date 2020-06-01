@@ -29,7 +29,7 @@ Group Paper:
 
 ### Personal Information
 ### 个人信息
-<table border="1">
+<table border="1" width="500px" height="500px" align="center">
   <tr>
     <td>性别</td><td>男</td>
     <td rowspan="4"><img src="chenguanbin.jpg" width="100%" height="100%"/></td>
