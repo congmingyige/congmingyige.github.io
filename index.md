@@ -36,7 +36,11 @@ Group Paper:
     <tr><td>出生年月</td><td>1997.04</td></tr>
   </table>
   <table width="25%">
-    <img src="/chenguanbin.jpg" width="100%">
+    <tr>
+      <td>
+        <img src="/chenguanbin.jpg" width="100%">
+      </td>
+    </tr>
   </table>
 </table>
 
