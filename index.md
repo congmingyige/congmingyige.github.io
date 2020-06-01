@@ -35,6 +35,10 @@ xxx 脑空间信息学 他人文章
 <table border="0">
   <tr>
     <td width="75%">
+      <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+      </tr>
       <p><b>性别（Male）</b> <b>男（）</b></p>
       <p><b>民族：汉</b></p>
       <p><b>出生年月：1997.04</b></p>
@@ -76,6 +80,7 @@ Github：[https://github.com/congmingyige](https://github.com/congmingyige)
 
 
 ### 简历下载
+[陈冠斌个人简历](/个人简历.doc)
 [陈冠斌个人简历](https://github.com/congmingyige/congmingyige.github.io/raw/master/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.doc)
 
 
