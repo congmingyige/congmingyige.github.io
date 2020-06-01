@@ -5,7 +5,8 @@
 
 <style>
  .ctl{
-   margin:0 auto
+  margin:0 auto;
+  color:#FF0000;
  }
 </style>
 
