@@ -27,7 +27,7 @@
   <tr><td>民族</td><td>汉族</td></tr>
   <tr><td>出生年月</td><td>1997.04</td></tr>
 </table> 
-<div align="center">
+</div>
 
 ## 个人简介
 陈冠斌目前就读于MOST(Micro-Optical Sectioning Tomography)实验室，Britton Chance Research Center for Biomedical Photonics研究中心，武汉光电国家研究中心，华中科技大学。
