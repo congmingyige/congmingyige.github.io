@@ -26,10 +26,10 @@
 他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。另外，他在科研和日常生活中有一点点强迫症和拖延症，而他正在努力解决中。
 
 ## 个人展示
-个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
-博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)  
-个人简介下载：[陈冠斌个人简介](/个人简历.doc)
+- 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
+- 博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+- GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)  
+- 个人简介下载：[陈冠斌个人简介](/个人简历.doc)
 
 ## 研究方向
 
@@ -123,10 +123,10 @@ He is glad to communicate with researchers. If you have any advice and questions
 He enjoys comics and literature, and willing to try anything. What's more, he has a little OCD and procrastination in scientic as well as life, and he trys to fix it.
 
 ## Personal Presentation
-Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)  
-Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-GitHub：[https://github.com/congmingyige](https://github.com/congmingyige) 
-Download Profile：[GuanbinChen_Profile](/个人简历.doc)
+- Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
+- Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
+- GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
+- Download Profile：[GuanbinChen_Profile](/个人简历.doc)
 
 ## Research Direction
 
