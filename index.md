@@ -49,7 +49,7 @@ Group Paper:
       <tr><td>民族</td><td>汉族</td></tr>
       <tr><td>出生年月</td><td>1997.04</td></tr>
     </td>
-    <td width="50%">
+    <td width="20%">
       <tr>
         <td colspan="3"><img src="chenguanbin.jpg" /></td>
       </tr>
