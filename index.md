@@ -21,24 +21,27 @@
 
 他喜欢和擅长算法，曾获程序设计和数学建模的奖项（见下文）。
 
-他乐意于大家进行学术上的交流，如果有任意建议或问题，请邮箱联系(1249591860@qq.com , chenguanbin1997@outlook.com)。
+他乐意与大家进行学术上的交流，如果有任意建议或问题，请邮箱联系(1249591860@qq.com , chenguanbin1997@outlook.com)。
 
 他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。另外，他在科研和日常生活中有一点点强迫症和拖延症，而他正在努力解决中。
 
 ## 个人展示
 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
 博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-GitHub：[https://github.com/congmingyige](https://github.com/congmingyige) 
+GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)  
 简介：[陈冠斌个人简历](/个人简历.doc)
 
 ## 研究方向
 ### 研究方向1
 #### 方向
 - 图像处理与分析，对象是介观层次的神经科学图像，如鼠脑神经元血管等
+
 #### 内容
 - 交叉学科：计算机（算法，大数据，可视化）、神经科学、数学、物理、医学
+
 #### 个人文章
 - to be added
+
 #### 实验室文章
 - 骆清铭. (2017). 脑空间信息学——连接脑科学与类脑人工智能的桥梁. 中国科学:生命科学, 10 vo 47, 1015–1024.
 - Li, A., Gong, H., Zhang, B., Wang, Q., Yan, C., Wu, J., Liu, Q., Zeng, S., & Luo, Q. (2010). Micro-Optical Sectioning Tomography to Obtain a High-Resolution Atlas of the Mouse Brain. Science, 330(6009), p.1404-1408.
