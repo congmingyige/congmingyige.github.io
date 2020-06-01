@@ -9,12 +9,6 @@
 
 # 陈冠斌的个人主页
 
-
-<div align="center">
-<p>我是唐老鸭。</p>
-<p>我住在 Duckburg。</p>
-</div>
-
 ## 个人信息
 
 <div align="center">
@@ -115,15 +109,17 @@ to be added
 # Homepage of Guanbin Chen
 
 ## Personal Information
-<table width="100%">
+<div align="center">
+<table>
   <tr>
     <td width="40%">Sex</td><td width="40%">Male</td>
-    <td rowspan="4"><img src="/chenguanbin.jpg" width="100"/></td>
+    <td rowspan="4"><img src="./chenguanbin.jpg" width="100"/></td>
   </tr>
   <tr><td>Nationality</td><td>Chinese</td></tr>
   <tr><td>Ethn</td><td>Han</td></tr>
   <tr><td>Date of Birth</td><td>1997.04</td></tr>
 </table>
+</div>
 
 ## Personal Introduction
 Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography)laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
