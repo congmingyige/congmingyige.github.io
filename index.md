@@ -12,21 +12,18 @@
 ### Introduction
 Guanbin Chen currently studies at the MOST group, Britton Chance Research Center for Biomedical Photonics, Huazhong University of Science and Technology. He does research in algorithms and    image processing and analyzing about neuroscience(brain) in the mesoscopic level. He is interested in and quite good at algorithm, and has gained awards in programming and mathematical modeling which are shown below. He is glad to communicate with researchers, if you have any advice and question, please email with me (1249591860@qq.com,chenguanbin1997@outlook.com).
 
-### 研究方向
-#### 研究方向1
-
-xxx 脑空间信息学 他人文章
 
 
 ### 个人简介
 陈冠斌目前就读于MOST组，Britton Chance Research Center for Biomedical Photonics实验室，华中科技大学。他目前研究算法和介观层次的有关神经科学（脑）的图像处理和分析。他擅长算法，曾获程序设计和数学建模的奖项，这些可以在下方找到。
 
-### 科研日记
+### 研究方向
+#### 研究方向1
+xxx 脑空间信息学 他人文章
+Group Paper:
 
-2019.9.1 致坚持 - 科研中，不只有眼前的苟且，还有诗与远方
 
-2020.5.31 抱负也有，迷茫也有，未来如何，尚未可知。
-
+#### 研究方向2 算法
 
 
 
@@ -41,10 +38,19 @@ xxx 脑空间信息学 他人文章
         <tr><td>出生年月</td><td>1997.04</td></tr>
     </td>
     <td width="25%">
-      <img src="/chenguanbin.jpg" width="100%">
+      <tr><td>性别</td><td>男</td></tr>
     </td>
   </tr>
 </table>
+
+
+<img src="/chenguanbin.jpg" width="100%">
+
+### 科研日记
+
+2019.9.1 致坚持 - 科研中，不只有眼前的苟且，还有诗与远方
+
+2020.5.31 抱负也有，迷茫也有，未来如何，尚未可知。
 
 ### 成果展示
 个人主页（Personal Page）：[https://congmingyige.github.io](https://congmingyige.github.io)  
