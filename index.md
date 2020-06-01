@@ -89,7 +89,11 @@ to be added
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
 </table>
 
-
+<table border="1">
+  <tr><th width="30%">时间</th><th width="30%">学校（学位）</th><th width="40%">专业</th></tr>
+  <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
+  <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
+</table>
 
 
 
