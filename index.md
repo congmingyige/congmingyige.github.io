@@ -7,19 +7,26 @@
 <table width="100%">
   <tr>
     <td>性别</td><td>男</td>
-    <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
+    <td rowspan="4"><img src="/chenguanbin.jpg" width="30%"/></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
   <tr><td>出生年月</td><td>1997.04</td></tr>
 </table>
 
-## 个人简介
-陈冠斌目前就读于MOST(Micro-Optical Sectioning Tomography)实验室，Britton Chance Research Center for Biomedical Photonics研究中心，武汉光电国家研究中心，华中科技大学。
-
 <table width="100%">
   <tr>
-    <td width="30%">性别</td><td width="30%">男<td></td>
+    <td width="30%">性别</td><td width="30%">男</td>
+    <td rowspan="4"><img src="./chenguanbin.jpg"></td>
+  </tr>
+  <tr><td>国籍</td><td>中国</td></tr>
+  <tr><td>民族</td><td>汉族</td></tr>
+  <tr><td>出生年月</td><td>1997.04</td></tr>
+</table>
+
+<table width="50%">
+  <tr>
+    <td width="15%">性别</td><td width="15%">男</td>
     <td rowspan="4"><img src="./chenguanbin.jpg"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
