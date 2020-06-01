@@ -4,10 +4,9 @@
 <style>
  .ctl{
    table-layout:fixed
-   margin:auto
  }
  .ctl1{
-   table-layout:fixed
+   margin:auto
  }
  
 </style>
@@ -15,7 +14,7 @@
 # 陈冠斌的个人主页
 
 ## 个人信息
-<table width="50%" align="center" border="1" class="ctl">
+<table width="50%" align="center" border="1" class="ctl1">
   <tr>
     <td>性别</td><td>男</td>
     <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
@@ -95,7 +94,7 @@ to be added
 - 坚持
 
 ## 教育背景
-<table width="50%" align="center" border="1" class="ctl">
+<table width="50%" align="center" border="1" class="ctl1">
   <tr><th>时间</th><th>学校（学位）</th><th>专业</th></tr>
   <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
