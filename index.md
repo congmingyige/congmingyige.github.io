@@ -17,7 +17,7 @@
 <table width="100%">
   <tr>
     <td width="30%">性别</td><td width="30%">男</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg"></td>
+    <td rowspan="4"><img src="/chenguanbin.jpg"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
@@ -27,7 +27,7 @@
 <table width="50%">
   <tr>
     <td width="15%">性别</td><td width="15%">男</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg"></td>
+    <td rowspan="4"><img src="/chenguanbin.jpg"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
