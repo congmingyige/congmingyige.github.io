@@ -85,7 +85,7 @@ to be added
 ## 教育背景
 
 <div align="center">
-<table border="1" cellpadding="0" cellspacing="0">
+<table>
   <tr><th>时间</th><th>学校（学位）</th><th>专业</th></tr>
   <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
