@@ -32,7 +32,7 @@
 
 他乐意与大家进行学术上的交流，如果有任意建议或问题，请邮箱联系(1249591860@qq.com , chenguanbin1997@outlook.com)。
 
-他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。另外，他在科研和日常生活中有一点点强迫症和拖延症，而他正在努力解决中。
+他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。
 
 ## 个人展示
 - 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
@@ -133,7 +133,7 @@ He is interested in and quite good at algorithms, and has gained awards in progr
 
 He is glad to communicate with researchers. If you have any advice and questions, please email with me(1249591860@qq.com , chenguanbin1997@outlook.com).
 
-He enjoys comics and literature, and willing to try anything. What's more, he has a little OCD and procrastination in scientic as well as life, and he trys to fix it.
+He enjoys comics and literature, and willing to try anything.
 
 ## Personal Presentation
 - Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
