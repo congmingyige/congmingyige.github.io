@@ -5,22 +5,12 @@
 
 <style>
  .ctl{
+  alIgn:center;
   margin:0 auto;
   color:#FF0000;
  }
 </style>
 
-<style>
-.intro
-{
-background-color:yellow;
-}
-</style>
-
-<div class="intro">
-<p>我是唐老鸭。</p>
-<p>我住在 Duckburg。</p>
-</div>
 
 ## 个人信息
 <table class="ctl">
@@ -130,13 +120,13 @@ to be added
 </table>
 
 ## Personal Introduction
-Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography) laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
+Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography)laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
 
 He does research in image processing and analyzing about neuroscience image of mesoscopic level, e.g. mouse brain neuron and vessel. In addition, He also does research in algorithms, incluing theory and application.
 
 He is interested in and quite good at algorithms, and has gained awards in programming and mathematical modeling which are shown below.
 
-He is glad to communicate with researchers. If you have any advice and questions, please email with me (1249591860@qq.com , chenguanbin1997@outlook.com).
+He is glad to communicate with researchers. If you have any advice and questions, please email with me(1249591860@qq.com , chenguanbin1997@outlook.com).
 
 He enjoys comics and literature, and willing to try anything. What's more, he has a little OCD and procrastination in scientic as well as life, and he trys to fix it.
 
@@ -154,7 +144,7 @@ He enjoys comics and literature, and willing to try anything. What's more, he ha
 image processing and analyzing about neuroscience image of mesoscopic level, e.g. mouse brain neuron and vessel
 
 #### Content
-interdiscipline：CS（algorithms，big data，visualation）、neuorscience、maths、physics、medical
+interdiscipline：CS(algorithms，big data，visualation)、neuorscience、maths、physics、medical
 
 #### Personaly Research Results
 to be added
@@ -183,14 +173,14 @@ to be added
 
 ## Scientific Thought
 ### Spirit
-- efficient study（correct time and method）
-- correct task planning（things, order）
+- efficient study(correct time and method)
+- correct task planning(things, order)
 - balance work with rest
 - Persevere
 
 ## Educational Background
 <table width="100%" border="1">
-  <tr><th>Time</th><th>School（Degree）</th><th>Major</th></tr>
-  <tr><td>2015.09-2019.06</td><td>Lanzhou University（undergraduate）</td><td>Computer Science and Technology</td></tr>
-  <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology（graduate）</td><td>Computer Science and Technology（Biomedical Engineering）</td></tr>
+  <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
+  <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
+  <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
 </table>
