@@ -1,20 +1,10 @@
 
 [English Version(Click Here)](#jump)
 
-<style>
- .ctl{
-   table-layout:fixed
- }
- .ctl1{
-   margin:auto
- }
- 
-</style>
-
 # 陈冠斌的个人主页
 
 ## 个人信息
-<table width="100%" align="center" class="ctl1">
+<table width="100%">
   <tr>
     <td>性别</td><td>男</td>
     <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
@@ -107,7 +97,15 @@ to be added
 # Homepage of Guanbin Chen
 
 ## Personal Information
-
+<table width="100%">
+  <tr>
+    <td>Sex</td><td>Male</td>
+    <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
+  </tr>
+  <tr><td>Nationality</td><td>Chinese</td></tr>
+  <tr><td>Ethn</td><td>Han</td></tr>
+  <tr><td>Date of Birth</td><td>1997.04</td></tr>
+</table>
 
 ## Personal Introduction
 Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography) laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
