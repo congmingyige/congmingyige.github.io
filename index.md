@@ -5,8 +5,6 @@
 
 <style>
  .ctl{
-  alIgn:center;
-  margin:0 auto;
   color:#FF0000;
  }
 </style>
