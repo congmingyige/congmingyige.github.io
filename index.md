@@ -103,21 +103,13 @@ to be added
 
 <span id="jump"></span>
 
+
+
+
 # Homepage of Guanbin Chen
 
 ## Personal Information
-<table border="1">
-    <table width="50%">
-      <tr>
-        <td>Sex</td><td>Male</td>
-        <td rowspan="4"><img src="/chenguanbin.jpg" width="30%" height="30%"/></td>
-        </tr>
-      <tr><td>Nationality</td><td>Chinese</td></tr>
-      <tr><td>Ethn</td><td>Han</td></tr>
-      <tr><td>Date of Birth</td><td>1997.04</td></tr>
-    </table>
-  </tr>
-</table>
+
 
 ## Personal Introduction
 Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography) laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
