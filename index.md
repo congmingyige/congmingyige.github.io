@@ -77,11 +77,11 @@ to be added
 - 小学数学希望杯全国一等奖
 
 ## 科研想法
-- 品质
--- 高效学习（正确时间和方式）
--- 正确计划规划（内容，顺序）
--- 劳逸结合
--- 坚持
+### 品质
+- 高效学习（正确时间和方式）
+- 正确计划规划（内容，顺序）
+- 劳逸结合
+- 坚持
 
 ## 教育背景
 <table width="50%" align="center" border="1">
@@ -162,11 +162,11 @@ algorithms, incluing theory and application
 to be added
 
 ## Scientific Thought
-- Spirit
--- efficient study（correct time and method）
--- correct task planning（things, order）
--- balance work with rest
--- Persevere
+### Spirit
+- efficient study（correct time and method）
+- correct task planning（things, order）
+- balance work with rest
+- Persevere
 
 ## Educational Background
 <table width="50%" align="center" border="1">
