@@ -1,21 +1,21 @@
 
-[点击跳转](#jump)
+[English Version(Click Here)](#jump)
 
-
-
-
-
-
-
-## Homepage of Guanbin Chen （中文版见下方）
-
-### Introduction
-Guanbin Chen currently studies at the MOST group, Britton Chance Research Center for Biomedical Photonics, Huazhong University of Science and Technology. He does research in algorithms and    image processing and analyzing about neuroscience(brain) in the mesoscopic level. He is interested in and quite good at algorithm, and has gained awards in programming and mathematical modeling which are shown below. He is glad to communicate with researchers, if you have any advice and question, please email with me (1249591860@qq.com,chenguanbin1997@outlook.com).
-
-
+## 陈冠斌的个人主页
 
 ### 个人简介
-陈冠斌目前就读于MOST组，Britton Chance Research Center for Biomedical Photonics实验室，华中科技大学。他目前研究算法和介观层次的有关神经科学（脑）的图像处理和分析。他擅长算法，曾获程序设计和数学建模的奖项，这些可以在下方找到。
+陈冠斌目前就读于MOST()实验室，Britton Chance Research Center for Biomedical Photonics研究中心，华中科技大学。他目前研究图像处理与分析。此外，他还研究算法，包括算法的理论研究与应用。他擅长算法，曾获程序设计和数学建模的奖项（见下文）。他乐意于大家进行学术上的交流，如果有任意建议或问题，请联系1249591860@qq.com 或 chenguanbin1997@outlook.com。
+
+
+介观层次的有关神经科学（脑）的图像处理和分析
+
+
+### Introduction
+Guanbin Chen currently studies at the MOST laboritory, Britton Chance Research Center for Biomedical Photonics, Huazhong University of Science and Technology. He does research in algorithms and    image processing and analyzing about neuroscience(brain) in the mesoscopic level. He is interested in and quite good at algorithm, and has gained awards in programming and mathematical modeling which are shown below. He is glad to communicate with researchers, if you have any advice and question, please email with me (1249591860@qq.com,chenguanbin1997@outlook.com).
+
+
+
+
 
 ### 研究方向
 #### 研究方向1
@@ -33,7 +33,8 @@ Group Paper:
   <tr>
     <table width="50%">
       <tr><td>性别</td><td>男</td></tr>
-      <tr><td>国籍民族</td><td>中国 汉族</td></tr>
+      <tr><td>国籍</td><td>中国</td></tr>
+      <tr><td>民族</td><td>汉族</td></tr>
       <tr><td>出生年月</td><td>1997.04</td></tr>
     </table>
     <table width="50%">
@@ -48,6 +49,20 @@ Group Paper:
 
 
 <img src="/chenguanbin.jpg" width="100%">
+
+
+<table border="1">
+  <tr>
+    <table width="50%">
+      <tr><td>Sex</td><td>Male</td></tr>
+      <tr><td>Nationality</td><td>Chinese</td></tr>
+      <tr><td>Ethn</td><td>Han</td></tr>
+      <tr><td>Date of Birth</td><td>1997.04</td></tr>
+    </table>
+  </tr>
+</table>
+
+
 
 ### 科研日记
 
@@ -91,10 +106,9 @@ Github：[https://github.com/congmingyige](https://github.com/congmingyige)
 
 
 
-## 陈冠斌的个人主页
-1
 
 
 
 <span id="jump"></span>
 
+## Homepage of Guanbin Chen （中文版见下方）
