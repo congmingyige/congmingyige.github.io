@@ -32,7 +32,7 @@ Group Paper:
 <table>
   <tr>
     <td>性别</td><td>男</td>
-    <td rowspan="4"><img src="chenguanbin.jpg" width="30%" height="30%"/></td>
+    <td rowspan="4"><img src="chenguanbin.jpg" width="30%" height="30%" alt="banner"/></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
