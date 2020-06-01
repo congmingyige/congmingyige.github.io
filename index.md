@@ -35,15 +35,10 @@ xxx 脑空间信息学 他人文章
 <table border="0">
   <tr>
     <td width="75%">
-      <tr>
-        <td>row 1, cell 1</td>
-        <td>row 1, cell 2</td>
-      </tr>
-      <p><b>性别（Male）</b> <b>男（）</b></p>
-      <p><b>民族：汉</b></p>
-      <p><b>出生年月：1997.04</b></p>
-      <p><b>电话：15682871716</b></p>
-      <p><b>邮箱：chenguanbin1997@outlook.com</b></p>
+      
+        <tr><td>性别</td><td>男</td></tr>
+        <tr><td>国籍民族</td><td></td></tr>
+        <tr><td>出生年月</td><td>1997.04</td></tr>
     </td>
     <td width="25%">
       <img src="/chenguanbin.jpg" width="100%">
