@@ -4,8 +4,12 @@
 <style>
  .ctl{
    table-layout:fixed
+   margin:auto
  }
-  .ctl td{text-overflow:ellipsis;overflow:hidden;white-space: nowrap;padding:2px}
+ .ctl1{
+   table-layout:fixed
+ }
+ 
 </style>
 
 # 陈冠斌的个人主页
