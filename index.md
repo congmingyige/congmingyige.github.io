@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="40%">性别</td><td width="40%">男</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg" width="100" ></td>
+    <td rowspan="4"><img src="./chenguanbin.jpg" width="100"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
@@ -83,24 +83,16 @@ to be added
 - 坚持
 
 ## 教育背景
+
+<div align="center">
 <table border="1">
   <tr><th>时间</th><th>学校（学位）</th><th>专业</th></tr>
   <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
 </table>
-
-<table width="100%" border="1">
-  <tr><th width="30%">时间</th><th width="30%">学校（学位）</th><th width="40%">专业</th></tr>
-  <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
-  <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
-</table>
+</div>
 
 
-<table width="100%" border="1">
-  <tr><th width="30%">时间</th><th width="30%">学校（学位）</th><th width="40%">专业</th></tr>
-  <tr><td width="30%">2015.09-2019.06</td><td width="30%">兰州大学（本科）</td><td width="40%">计算机科学与技术</td></tr>
-  <tr><td width="30%">2019.09-至今</td><td width="30%">华中科技大学（直博）</td><td width="40%">计算机科学与技术（生物医学工程）</td></tr>
-</table>
 
 
 
@@ -192,8 +184,10 @@ to be added
 - Persevere
 
 ## Educational Background
+<div align="center">
 <table border="1">
   <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
   <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
   <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
 </table>
+</div>
