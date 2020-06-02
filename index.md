@@ -136,10 +136,10 @@ He is glad to communicate with researchers. If you have any advice and questions
 He enjoys comics and literature, and willing to try anything.
 
 ## Personal Presentation
-- Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
-- Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
-- GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
-- Download Profile：[GuanbinChen_Profile](/GuanbinChen_english.pdf)
+- Personal Page: [https://congmingyige.github.io](https://congmingyige.github.io)
+- Blog: [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
+- GitHub: [https://github.com/congmingyige](https://github.com/congmingyige)
+- Download Profile: [GuanbinChen_Profile](/GuanbinChen_english.pdf)
 
 ## Research Direction
 
