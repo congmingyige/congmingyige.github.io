@@ -38,7 +38,7 @@
 - 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
 - 博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
 - GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)  
-- 个人简介下载：[陈冠斌个人简介](/个人简历.doc)
+- 个人简介下载：[陈冠斌个人简介](./陈冠斌_中文.pdf)
 
 ## 研究方向
 
@@ -139,7 +139,7 @@ He enjoys comics and literature, and willing to try anything.
 - Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
 - Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
 - GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
-- Download Profile：[GuanbinChen_Profile](/个人简历.doc)
+- Download Profile：[GuanbinChen_Profile](./GuanbinChen_english.pdf)
 
 ## Research Direction
 
