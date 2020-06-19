@@ -87,8 +87,8 @@ to be added
 <div align="center">
 <table>
   <tr><th>时间</th><th>学校（学位）</th><th>专业</th></tr>
-  <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
   <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（生物医学工程）</td></tr>
+  <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
 </table>
 </div>
 
@@ -187,7 +187,7 @@ to be added
 <div align="center">
 <table border="1">
   <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
-  <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
   <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
+  <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
 </table>
 </div>
