@@ -66,7 +66,7 @@ to be added
 to be added
 
 ## 荣誉
-- 2018 ACM-ICPC International Collegiate Programming Contest 亚洲区域赛焦作、亚洲区域赛青岛、全国邀请赛南昌银奖（团体，三人）
+- 2018 ACM-ICPC International Collegiate Programming Contest 亚洲区域赛焦作、亚洲区域赛青岛、全国邀请赛南昌银奖（团体，三人），我校第一个铜/银奖，感谢队友、同学和教练~ 让我有机会重新拾起算法
 - 2017 高教社杯全国大学生数学建模竞赛本科组全国二等奖（团体，三人）
 - 本科期间共获国家奖学金一次，剩余均获校一等奖学金
 - 兰州大学程序设计竞赛的提出者之一，第一、二、三次竞赛的出题人、验题人、组织者之一
