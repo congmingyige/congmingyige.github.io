@@ -1,4 +1,7 @@
 
+关注计算机（算法）、神经科学（图像处理、分析）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
+Focus on computer science(algorithm)、neuroscience(image processing and analysis)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
+
 [English Version(Click Here)](#jump)
 
 <style>
@@ -15,7 +18,7 @@
 <table>
   <tr>
     <td width="40%">性别</td><td width="40%">男</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg" width="100"></td>
+    <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" width="100"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
