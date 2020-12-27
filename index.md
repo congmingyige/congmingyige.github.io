@@ -1,6 +1,7 @@
 
-关注计算机（算法）、神经科学（图像处理、分析）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
-Focus on computer science(algorithm)、neuroscience(image processing and analysis)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
+关注计算机（算法）、脑科学/神经科学（图像处理、分析）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
+
+Focus on computer science(algorithm)、brainscience/neuroscience(image processing and analysis)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
 
 [English Version(Click Here)](#jump)
 
