@@ -1,7 +1,8 @@
+<img src="./陈冠斌_科研理念.jpg">
 
-关注脑科学&神经科学（图像处理、分析）、计算机（算法）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
+关注脑科学&神经科学（图像处理、分析）、计算机（算法等）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
 
-Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
+Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm and so on)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
 
 [English Version(Click Here)](#jump)
 
@@ -40,8 +41,9 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 
 ## 个人展示
 - 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
-- 博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-- GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)  
+- Blog(Thinking and Coding)：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+- BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
+- GitHub(Project)：[https://github.com/congmingyige](https://github.com/congmingyige)  
 - 个人简介下载：[陈冠斌个人简介](/陈冠斌_中文.pdf)
 
 ## 研究方向
@@ -146,8 +148,9 @@ He enjoys comics and literature, and willing to try anything.
 
 ## Personal Presentation
 - Personal Page: [https://congmingyige.github.io](https://congmingyige.github.io)
-- Blog: [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
-- GitHub: [https://github.com/congmingyige](https://github.com/congmingyige)
+- Blog(Thinking and Coding)：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+- BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
+- GitHub(Project)：[https://github.com/congmingyige](https://github.com/congmingyige)  
 - Download Profile: [GuanbinChen_Profile](/GuanbinChen_english.pdf)
 
 ## Research Direction
