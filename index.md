@@ -40,11 +40,11 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 他是一个喜欢动漫，文学的人，任意事情都喜欢尝试。他希望能从动漫中找到童真和创造力，保持活力，对生活和事情抱有热情。他希望能从书籍的海洋中获得知识、力量和阅历，成为一个更好的自己。
 
 ## 个人展示
-- 个人主页：[https://congmingyige.github.io](https://congmingyige.github.io)  
-- Blog(Thinking and Coding)：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+- 个人主页: [https://congmingyige.github.io](https://congmingyige.github.io)  
+- Blog(Thinking and Coding): [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
 - BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
-- GitHub(Project)：[https://github.com/congmingyige](https://github.com/congmingyige)  
-- 个人简介下载：[陈冠斌个人简介](/陈冠斌_中文.pdf)
+- GitHub(Project): [https://github.com/congmingyige](https://github.com/congmingyige)  
+- 个人简介下载: [陈冠斌个人简介](/陈冠斌_中文.pdf)
 
 ## 研究方向
 
@@ -148,9 +148,9 @@ He enjoys comics and literature, and willing to try anything.
 
 ## Personal Presentation
 - Personal Page: [https://congmingyige.github.io](https://congmingyige.github.io)
-- Blog(Thinking and Coding)：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
+- Blog(Thinking and Coding): [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
 - BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
-- GitHub(Project)：[https://github.com/congmingyige](https://github.com/congmingyige)  
+- GitHub(Project): [https://github.com/congmingyige](https://github.com/congmingyige)  
 - Download Profile: [GuanbinChen_Profile](/GuanbinChen_english.pdf)
 
 ## Research Direction
