@@ -19,7 +19,7 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 <div align="center">
 <table>
   <tr>
-    <td width="40%">性别</td><td width="40%">男</td>
+    <td width="30%">性别</td><td width="30%">男</td>
     <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" width="100"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
