@@ -126,8 +126,8 @@ to be added
 <div align="center">
 <table>
   <tr>
-    <td width="40%">Sex</td><td width="40%">Male</td>
-    <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" width="100"/></td>
+    <td width="30%">Sex</td><td width="30%">Male</td>
+    <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" height="250"/></td>
   </tr>
   <tr><td>Nationality</td><td>Chinese</td></tr>
   <tr><td>Ethn</td><td>Han</td></tr>
