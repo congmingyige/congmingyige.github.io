@@ -1,6 +1,6 @@
 <img src="./陈冠斌_科研理念.jpg">
 
-关注脑科学&神经科学（图像处理、分析）、计算机（算法等）、数学（组合数学等）、物理（量子、天文，只是兴趣）的动态，有兴趣可联系我
+关注脑科学&神经科学（图像处理、分析）、计算机（算法等）、数学（组合数学等）、物理（量子计算等，只是兴趣）的动态，有兴趣可联系我
 
 Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm and so on)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
 
@@ -95,9 +95,9 @@ to be added
 <div align="center">
 <table>
   <tr><th>时间</th><th>学校（学位）</th><th>专业</th></tr>
-  <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（转；本身生物医学工程）；会关注CS（算法）、神经科学、Maths（组合数学）、Physics（量子、天文）的动态，有兴趣可联系我</td></tr>
+  <tr><td>2019.09-至今</td><td>华中科技大学（直博）</td><td>计算机科学与技术（转；本身生物医学工程）；会关注CS（算法）、神经科学、Maths（组合数学等）、Physics（量子计算等，只是兴趣）的动态，有兴趣可联系我</td></tr>
   <tr><td>2015.09-2019.06</td><td>兰州大学（本科）</td><td>计算机科学与技术</td></tr>
-  <tr><td>2012.09-2015.06</td><td>广东实验中学</td><td>关注计算机（数学已太渣……）</td></tr>
+  <tr><td>2012.09-2015.06</td><td>广东实验中学</td><td>关注计算机</td></tr>
   <tr><td>2009.09-2012.06</td><td>广州市六中珠江中学</td><td>关注数学、计算机</td></tr>
   <tr><td>2003.09-2019.06</td><td>广州市同福中路第一小学</td><td>关注数学</td></tr>
 </table>
@@ -123,17 +123,8 @@ to be added
 # Homepage of Guanbin Chen
 
 ## Personal Information
-<div align="center">
-<table>
-  <tr>
-    <td width="30%">Sex</td><td width="30%">Male</td>
-    <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" height="250"/></td>
-  </tr>
-  <tr><td>Nationality</td><td>Chinese</td></tr>
-  <tr><td>Ethn</td><td>Han</td></tr>
-  <tr><td>Date of Birth</td><td>1997.04</td></tr>
-</table>
-</div>
+- Name:Guanbin Chen
+- Date of Birth:1997.04
 
 ## Personal Introduction
 Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography)laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
