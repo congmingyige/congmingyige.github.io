@@ -4,13 +4,21 @@
 
 Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm and so on)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
 
-[English Version(Click Here)](#jump)
+[English Version(Click Here)](#eng)
+[中文版本(请点击此)](#chi_sim)
 
 <style>
  .ctl{
   color:#FF0000;
  }
 </style>
+
+
+
+
+
+<br/><br/><br/>
+<span id="chi_sim"></span>
 
 # 陈冠斌的个人主页
 
@@ -112,7 +120,7 @@ to be added
 
 
 <br/><br/><br/>
-<span id="jump"></span>
+<span id="eng"></span>
 
 
 
@@ -123,8 +131,8 @@ to be added
 # Homepage of Guanbin Chen
 
 ## Personal Information
-- Name:Guanbin Chen
-- Date of Birth:1997.04
+- Name: Guanbin Chen
+- Date of Birth: 1997.04
 
 ## Personal Introduction
 Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography)laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
