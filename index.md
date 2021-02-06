@@ -4,8 +4,10 @@
 
 Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm and so on)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
 
-[English Version(Click Here)](#eng)
+
 [中文版本(请点击此)](#chi_sim)
+
+[English Version(Click Here)](#eng)
 
 <style>
  .ctl{
