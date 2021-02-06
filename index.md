@@ -52,8 +52,9 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 ## 个人展示
 - 个人主页: [https://congmingyige.github.io](https://congmingyige.github.io)  
 - Blog(Thinking and Coding): [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-- BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
-- GitHub(Project): [https://github.com/congmingyige](https://github.com/congmingyige)  
+- ZhiHu(Articals about algorithms and so on made by myself): [https://www.zhihu.com/people/congmingyige](https://www.zhihu.com/people/congmingyige)
+- BiliBili(Videos about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
+- GitHub(Projects): [https://github.com/congmingyige](https://github.com/congmingyige)  
 - 个人简介下载: [陈冠斌个人简介](/陈冠斌_中文.pdf)
 
 ## 研究方向
@@ -150,8 +151,9 @@ He enjoys comics and literature, and willing to try anything.
 ## Personal Presentation
 - Personal Page: [https://congmingyige.github.io](https://congmingyige.github.io)
 - Blog(Thinking and Coding): [http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  
-- BiliBili(Video about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
-- GitHub(Project): [https://github.com/congmingyige](https://github.com/congmingyige)  
+- ZhiHu(Articals about algorithms and so on made by myself): [https://www.zhihu.com/people/congmingyige](https://www.zhihu.com/people/congmingyige)
+- BiliBili(Videos about algorithms and so on made by myself): [https://space.bilibili.com/20296586/video](https://space.bilibili.com/20296586/video)
+- GitHub(Projects): [https://github.com/congmingyige](https://github.com/congmingyige)  
 - Download Profile: [GuanbinChen_Profile](/GuanbinChen_english.pdf)
 
 ## Research Direction
