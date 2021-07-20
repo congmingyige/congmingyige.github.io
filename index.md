@@ -1,8 +1,8 @@
 <img src="./陈冠斌_科研理念.jpg">
 
-关注脑科学&神经科学（图像处理、分析）、计算机（算法等）、数学（组合数学等）、物理（量子计算等，只是兴趣）的动态，有兴趣可联系我
+关注脑科学&神经科学（图像处理、分析）、计算机（算法TCS等）、数学（组合数学、图论等）、物理（仅浅薄关注，量子计算、天文）的动态，有兴趣可联系我
 
-Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm and so on)、maths(combinatorics and so on)、physics(quantum、astronomy, just interest). Welcome to contact with me.
+Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm TCS and so on)、maths(combinatorics and so on)、physics(just follow, quantum、astronomy). Welcome to contact with me.
 
 
 [中文版本(请点击此)](#chi_sim)
