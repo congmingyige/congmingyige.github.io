@@ -67,21 +67,6 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 #### 内容
 交叉学科：计算机（算法，大数据，可视化）、神经科学、数学、物理、医学
 
-#### 个人研究成果
-to be added
-
-#### 实验室研究成果
-- 骆清铭. (2017). 脑空间信息学——连接脑科学与类脑人工智能的桥梁. 中国科学:生命科学, 10 vo 47, 1015–1024.
-- Li, A., Gong, H., Zhang, B., Wang, Q., Yan, C., Wu, J., Liu, Q., Zeng, S., & Luo, Q. (2010). Micro-Optical Sectioning Tomography to Obtain a High-Resolution Atlas of the Mouse Brain. Science, 330(6009), p.1404-1408.
-- Li, A., Guan, Y., Gong, H., & Luo, Q. (2019). Challenges of Processing and Analyzing Big Data in Mesoscopic Whole-brain Imaging. Genomics, Proteomics & Bioinformatics, 17(4), 337–343.
-
-### 研究方向2
-#### 方向
-算法，包括算法的理论研究与应用
-
-#### 个人研究成果
-to be added
-
 ## 荣誉
 - 2018 ACM-ICPC International Collegiate Programming Contest 亚洲区域赛焦作、亚洲区域赛青岛、全国邀请赛南昌银奖（团体，三人），我校第一个铜/银奖，感谢队友、同学和教练~ 让我有机会重新拾起算法
 - 2017 高教社杯全国大学生数学建模竞赛本科组全国二等奖（团体，三人）
