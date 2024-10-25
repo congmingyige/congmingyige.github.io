@@ -1,7 +1,5 @@
 # Guanbin Chen
 
-<span id="eng"></span>
-
 ## Personal Information
 <div align="center">
 <table>
