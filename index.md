@@ -1,4 +1,3 @@
-# 陈冠斌的个人主页
 [English Version(Click Here)](#eng)
 
 ## 个人信息
