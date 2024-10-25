@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="40%">Sex</td><td width="40%">Male</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg" width="100"/></td>
+    <td rowspan="4"><img src="./陈冠斌_艺术照.jpg" width="100"/></td>
   </tr>
   <tr><td>Nationality</td><td>Chinese</td></tr>
   <tr><td>Ethn</td><td>Han</td></tr>

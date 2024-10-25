@@ -1,8 +1,4 @@
-<img src="./陈冠斌_科研理念.jpg">
 
-关注脑科学&神经科学（图像处理、分析）、计算机（算法TCS等）、数学（组合数学、图论等）、物理（仅浅薄关注，量子计算、天文）的动态，有兴趣可联系我
-
-Focus on brain science&neuroscience(image processing and analysis)、computer science(algorithm TCS and so on)、maths(combinatorics and so on)、physics(just follow, quantum、astronomy). Welcome to contact with me.
 
 
 [中文版本(请点击此)](#chi_sim)
@@ -30,7 +26,7 @@ Focus on brain science&neuroscience(image processing and analysis)、computer sc
 <table>
   <tr>
     <td width="30%">性别</td><td width="30%">男</td>
-    <td rowspan="4"><img src="./陈冠斌_4000_3712.jpg" height="250"></td>
+    <td rowspan="4"><img src="./陈冠斌_艺术照.jpg" height="250"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>

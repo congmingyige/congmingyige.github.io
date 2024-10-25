@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="40%">性别</td><td width="40%">男</td>
-    <td rowspan="4"><img src="./chenguanbin.jpg" width="100"></td>
+    <td rowspan="4"><img src="./陈冠斌_艺术照.jpg" width="100"></td>
   </tr>
   <tr><td>国籍</td><td>中国</td></tr>
   <tr><td>民族</td><td>汉族</td></tr>
