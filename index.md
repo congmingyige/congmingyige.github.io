@@ -1,5 +1,5 @@
 [English Version(Click Here)](GuanbinChen_english.md)
-
+[下载中文版pdf](./陈冠斌_个人简历_2025年6月.pdf)
 ## 个人信息
 
 <div align="center">
