@@ -36,17 +36,6 @@ He enjoys comics and literature, and willing to try anything.
 - Download Profile：[GuanbinChen_Profile](/个人简历.doc)
 
 
-
-## Research Direction
-
-### Research Direction 1
-
-#### Direction
-image processing and analyzing about neuroscience image of mesoscopic level, e.g. mouse brain neuron and vessel
-
-#### Content
-interdiscipline：CS(algorithms，big data，visualation)、neuorscience、maths、physics、medical
-
 ## Honor
 
 - The ACM ICPC Asia Regional Contest Jiaozuo Site 2018, Qingdao Site 2018, China Invitational Nanchang 2019 Silver Medal(group of three, three times)
@@ -57,7 +46,6 @@ interdiscipline：CS(algorithms，big data，visualation)、neuorscience、maths
 - 2011 National Olympiad in Informatics in Provinces(NOIP) Senior Group National(Guangdong Site) First Prize(Guangzhou 7th)
 - 2011,2012 National Junior School Maths Competion First Prize(when in junior two, compete with junior three)
 - "Cup of Hope" National Mathematics Invitational Tournament/Contest/Competition Primary Group First Prize
-
 
 
 ## Scientific Thought
@@ -72,5 +60,5 @@ interdiscipline：CS(algorithms，big data，visualation)、neuorscience、maths
 <table width="100%" border="1">
   <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
   <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
-  <tr><td>2019.09-Now</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
+  <tr><td>2019.09-2025.06</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
 </table>
