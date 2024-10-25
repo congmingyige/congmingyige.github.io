@@ -15,20 +15,6 @@
 </div>
 
 
-## Personal Introduction
-
-Guanbin Chen currently studies at the MOST(Micro-Optical Sectioning Tomography)laboritory, Britton Chance Research Center for Biomedical Photonics, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology.
-
-He does research in image processing and analyzing about neuroscience image of mesoscopic level, e.g. mouse brain neuron and vessel. In addition, He also does research in algorithms, incluing theory and application.
-
-He is interested in and quite good at algorithms, and has gained awards in programming and mathematical modeling which are shown below.
-
-He is glad to communicate with researchers. If you have any advice and questions, please email with me(1249591860@qq.com , chenguanbin1997@outlook.com).
-
-He enjoys comics and literature, and willing to try anything. 
-
-
-
 ## Personal Presentation
 
 - Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
@@ -48,14 +34,6 @@ He enjoys comics and literature, and willing to try anything.
 - 2011,2012 National Junior School Maths Competion First Prize(when in junior two, compete with junior three)
 - "Cup of Hope" National Mathematics Invitational Tournament/Contest/Competition Primary Group First Prize
 
-
-## Scientific Thought
-
-### Spirit
-- efficient study(correct time and method)
-- correct task planning(things, order)
-- balance work with rest
-- Persevere
 
 ## Educational Background
 <table width="100%" border="1">
