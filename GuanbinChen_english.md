@@ -10,7 +10,6 @@
     <td rowspan="4"><img src="./陈冠斌_艺术照.jpg" width="100"/></td>
   </tr>
   <tr><td>Nationality</td><td>Chinese</td></tr>
-  <tr><td>Ethn</td><td>Han</td></tr>
   <tr><td>Date of Birth</td><td>1997.04</td></tr>
 </table>
 </div>
