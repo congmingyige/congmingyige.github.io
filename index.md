@@ -14,10 +14,8 @@
 </table> 
 </div>
 
-## 如有工作机会，请联系1249591860@qq.com
-
 ## 擅长
-- **使用传统算法解决具体问题**
+- **数据结构和算法实现**
 
 ## 个人展示
 - 博客：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)  包含一些编程比赛的题解和算法的证明
