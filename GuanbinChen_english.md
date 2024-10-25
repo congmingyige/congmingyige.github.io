@@ -1,6 +1,10 @@
 [Download English-language PDF](./GuanbinChen_Profile_2025.06_graduate.pdf)
 
 ## Currently looking for job opportunities in C++ development, back-end development or algorithms, open to opportunities both domestically and internationally. If you have any job openings, please contact me at 1249591860@qq.com.
+Aiming country: Japan、America、Europe
+
+## Skills
+Data structure and algorithm implementation
 
 ## Personal Information
 <div align="center">
