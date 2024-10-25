@@ -47,26 +47,6 @@ image processing and analyzing about neuroscience image of mesoscopic level, e.g
 #### Content
 interdiscipline：CS(algorithms，big data，visualation)、neuorscience、maths、physics、medical
 
-#### Personaly Research Results
-to be added
-
-#### Laboritory Research Results
-- Luo, Q. (2017). Brainsmatics—bridging the brain science and brain-inspired artificial intelligence. SCIENTIA SINICA Vitae, 10 vo 47, 1015–1024.
-- Li, A., Gong, H., Zhang, B., Wang, Q., Yan, C., Wu, J., Liu, Q., Zeng, S., & Luo, Q. (2010). Micro-Optical Sectioning Tomography to Obtain a High-Resolution Atlas of the Mouse Brain. Science, 330(6009), p.1404-1408.
-- Li, A., Guan, Y., Gong, H., & Luo, Q. (2019). Challenges of Processing and Analyzing Big Data in Mesoscopic Whole-brain Imaging. Genomics, Proteomics & Bioinformatics, 17(4), 337–343.
-
-
-
-### Research Direction 2
-
-#### Direction
-algorithms, incluing theory and application
-
-#### Personaly Research Results
-to be added
-
-
-
 ## Honor
 
 - The ACM ICPC Asia Regional Contest Jiaozuo Site 2018, Qingdao Site 2018, China Invitational Nanchang 2019 Silver Medal(group of three, three times)
