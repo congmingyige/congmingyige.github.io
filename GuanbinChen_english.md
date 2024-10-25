@@ -24,7 +24,6 @@ Data structure and algorithm implementation
 - Personal Page：[https://congmingyige.github.io](https://congmingyige.github.io)
 - Blog：[http://www.cnblogs.com/cmyg](http://www.cnblogs.com/cmyg)
 - GitHub：[https://github.com/congmingyige](https://github.com/congmingyige)
-- Download Profile：[GuanbinChen_Profile](/个人简历.doc)
 
 
 ## Honor
