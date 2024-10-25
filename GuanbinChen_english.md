@@ -59,6 +59,6 @@ He enjoys comics and literature, and willing to try anything.
 ## Educational Background
 <table width="100%" border="1">
   <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
+  <tr><td>2019.09-2025.06</td><td>Huazhong University of Science & Technology(master, recommended)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
   <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
-  <tr><td>2019.09-2025.06</td><td>Huazhong University of Science & Technology(graduate)</td><td>Computer Science and Technology(Biomedical Engineering)</td></tr>
 </table>
