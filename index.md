@@ -1,4 +1,4 @@
-[下载中文pdf](./陈冠斌_个人简历_2025年6月.pdf) [Download English-language PDF](./GuanbinChen_Profile_2025.06_graduate.pdf)[English-language Pages(Click Here)](GuanbinChen_english.md)
+[下载中文pdf](./陈冠斌_个人简历_2025年6月.pdf)   [Download English-language PDF](./GuanbinChen_Profile_2025.06_graduate.pdf)   [English-language Pages(Click Here)](./GuanbinChen_english.md)
 <a href="https://github.com/congmingyige/congmingyige.github.io/blob/main/%E9%99%88%E5%86%A0%E6%96%8C_%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_2025%E5%B9%B46%E6%9C%88.pdf">
 ## 个人信息
 
