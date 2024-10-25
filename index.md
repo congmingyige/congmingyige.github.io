@@ -2,6 +2,8 @@
 
 ## 个人信息
 
+[English Version(Click Here)](#eng)
+
 <div align="center">
 <table>
   <tr>
