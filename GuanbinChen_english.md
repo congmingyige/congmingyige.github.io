@@ -42,6 +42,6 @@ Data structure and algorithm implementation
 ## Educational Background
 <table width="100%" border="1">
   <tr><th>Time</th><th>School(Degree)</th><th>Major</th></tr>
-  <tr><td>2019.09-2025.06</td><td>Huazhong University of Science & Technology(master, recommended)</td><td>Computer Science and Technology</td></tr>
+  <tr><td>2019.09-2025.06</td><td>Huazhong University of Science & Technology(master)</td><td>Computer Science and Technology</td></tr>
   <tr><td>2015.09-2019.06</td><td>Lanzhou University(undergraduate)</td><td>Computer Science and Technology</td></tr>
 </table>
